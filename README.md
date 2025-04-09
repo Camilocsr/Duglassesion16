@@ -133,4 +133,6 @@ Juan Camilo Solano Rodriguez
 
 ---
 
+URL DEL REPO: https://github.com/Camilocsr/Duglassesion16
+
 Este proyecto fue desarrollado como ejercicio práctico para demostrar el uso de eventos en jQuery, siguiendo buenas prácticas de desarrollo y arquitectura de software.
